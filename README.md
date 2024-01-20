@@ -1,6 +1,22 @@
 <div align="center">
-  
-# 👨‍💻 HTML and CSS Web Development Showcase
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/singh-sukhmanjeet/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.reddit.com/user/sukhmang">
+      <img src="https://img.shields.io/badge/Reddit-white?style=for-the-badge&logo=reddit&logoColor=red" alt="Reddit Badge"/>
+    </a>
+    <a href="https://twitter.com/mijugilo">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+
+ <div>   
+   <h1>
+  👨‍💻 HTML and CSS Web Development Showcase
+   </h1>
+ </div>
 
 </div>
 
